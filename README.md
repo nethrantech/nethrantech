@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
 🔭 We’re currently working on<br>Building practical IT solutions that solve real operational problems for businesses — focusing on scalable software, automation, and data-driven systems under the Nethran umbrella.<br><br>👯 We’re looking to collaborate on<br>Joint product development, pilot projects, and long-term partnerships with startups, SMBs, and tech teams that value clarity, execution, and real-world impact.<br><br>🤝 We’re looking for help with<br>Early feedback, domain insights, strategic partnerships, and problem statements worth solving at scale.<br><br>🌱 We’re currently learning<br>How emerging technologies, better system design, and smarter workflows can be applied practically — not just theoretically — to improve business efficiency.<br><br>💬 Ask us about<br>Custom software development, IT problem-solving, automation ideas, and turning business pain points into working products.<br><br>⚡ Fun fact<br>Nethran was built with a simple rule: if it doesn’t solve a real problem, we don’t build it.
 
 
